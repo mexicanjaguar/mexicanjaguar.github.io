@@ -1,2 +1,2 @@
 # Hey there!
-This is a github repo used to host my personal blog, Data Ponderings. It's based on the template Beautiful Jekyll by Dean Attali. You can check out that project [here](https://beautifuljekyll.com/).
+This is a github repo used to host my personal blog, Data Ponderings. It's based on [Beautiful Jekyll](https://beautifuljekyll.com/) by Dean Attali.
